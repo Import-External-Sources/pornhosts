@@ -31,8 +31,8 @@
         "added": {
             "included_at_epoch": 1594155274.519239,
             "included_at_iso": "2020-07-07T20:54:34.519239",
-            "last_retested_at_epoch": 1594326476.83185,
-            "last_retested_at_iso": "2020-07-09T20:27:56.831850",
+            "last_retested_at_epoch": 1594378543.215368,
+            "last_retested_at_iso": "2020-07-10T10:55:43.215368",
             "status": "INVALID"
         },
         "ads.playboy.bg": {
@@ -346,8 +346,8 @@
         "closes": {
             "included_at_epoch": 1594155274.397841,
             "included_at_iso": "2020-07-07T20:54:34.397841",
-            "last_retested_at_epoch": 1594326476.864389,
-            "last_retested_at_iso": "2020-07-09T20:27:56.864389",
+            "last_retested_at_epoch": 1594378543.345035,
+            "last_retested_at_iso": "2020-07-10T10:55:43.345035",
             "status": "INVALID"
         },
         "cocks.bi-caps.com": {
@@ -465,8 +465,8 @@
         "head": {
             "included_at_epoch": 1594155335.553366,
             "included_at_iso": "2020-07-07T20:55:35.553366",
-            "last_retested_at_epoch": 1594326476.926616,
-            "last_retested_at_iso": "2020-07-09T20:27:56.926616",
+            "last_retested_at_epoch": 1594378605.035753,
+            "last_retested_at_iso": "2020-07-10T10:56:45.035753",
             "status": "INVALID"
         },
         "hkinvy.ru": {
@@ -479,8 +479,8 @@
         "https://github.com/import-external-sources/pornhosts/issues/630": {
             "included_at_epoch": 1594155274.546021,
             "included_at_iso": "2020-07-07T20:54:34.546021",
-            "last_retested_at_epoch": 1594326476.895255,
-            "last_retested_at_iso": "2020-07-09T20:27:56.895255",
+            "last_retested_at_epoch": 1594378543.372849,
+            "last_retested_at_iso": "2020-07-10T10:55:43.372849",
             "status": "INVALID"
         },
         "icdn02.igayporn.tv.sds.rncdn7.co": {
@@ -2252,6 +2252,13 @@
             "included_at_iso": "2020-07-07T21:10:42.762135",
             "last_retested_at_epoch": 1594326479.735995,
             "last_retested_at_iso": "2020-07-09T20:27:59.735995",
+            "status": "INACTIVE"
+        },
+        "www.young-whores.net": {
+            "included_at_epoch": 1594378778.85399,
+            "included_at_iso": "2020-07-10T10:59:38.853990",
+            "last_retested_at_epoch": 1594378778.85399,
+            "last_retested_at_iso": "2020-07-10T10:59:38.853990",
             "status": "INACTIVE"
         },
         "x.teenssites.net": {
