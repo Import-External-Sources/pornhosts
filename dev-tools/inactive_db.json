@@ -31,8 +31,8 @@
         "added": {
             "included_at_epoch": 1594155274.519239,
             "included_at_iso": "2020-07-07T20:54:34.519239",
-            "last_retested_at_epoch": 1594326476.83185,
-            "last_retested_at_iso": "2020-07-09T20:27:56.831850",
+            "last_retested_at_epoch": 1594383779.700984,
+            "last_retested_at_iso": "2020-07-10T12:22:59.700984",
             "status": "INVALID"
         },
         "ads.playboy.bg": {
@@ -346,8 +346,8 @@
         "closes": {
             "included_at_epoch": 1594155274.397841,
             "included_at_iso": "2020-07-07T20:54:34.397841",
-            "last_retested_at_epoch": 1594326476.864389,
-            "last_retested_at_iso": "2020-07-09T20:27:56.864389",
+            "last_retested_at_epoch": 1594383779.823881,
+            "last_retested_at_iso": "2020-07-10T12:22:59.823881",
             "status": "INVALID"
         },
         "cocks.bi-caps.com": {
@@ -465,8 +465,8 @@
         "head": {
             "included_at_epoch": 1594155335.553366,
             "included_at_iso": "2020-07-07T20:55:35.553366",
-            "last_retested_at_epoch": 1594326476.926616,
-            "last_retested_at_iso": "2020-07-09T20:27:56.926616",
+            "last_retested_at_epoch": 1594383839.356185,
+            "last_retested_at_iso": "2020-07-10T12:23:59.356185",
             "status": "INVALID"
         },
         "hkinvy.ru": {
@@ -479,8 +479,8 @@
         "https://github.com/import-external-sources/pornhosts/issues/630": {
             "included_at_epoch": 1594155274.546021,
             "included_at_iso": "2020-07-07T20:54:34.546021",
-            "last_retested_at_epoch": 1594326476.895255,
-            "last_retested_at_iso": "2020-07-09T20:27:56.895255",
+            "last_retested_at_epoch": 1594383779.851258,
+            "last_retested_at_iso": "2020-07-10T12:22:59.851258",
             "status": "INVALID"
         },
         "icdn02.igayporn.tv.sds.rncdn7.co": {
@@ -495,6 +495,20 @@
             "included_at_iso": "2020-07-07T20:55:46.947728",
             "last_retested_at_epoch": 1594325674.263985,
             "last_retested_at_iso": "2020-07-09T20:14:34.263985",
+            "status": "INACTIVE"
+        },
+        "img1.anal-teen-sex.com": {
+            "included_at_epoch": 1594383850.569173,
+            "included_at_iso": "2020-07-10T12:24:10.569173",
+            "last_retested_at_epoch": 1594383850.569173,
+            "last_retested_at_iso": "2020-07-10T12:24:10.569173",
+            "status": "INACTIVE"
+        },
+        "img2.anal-teen-sex.com": {
+            "included_at_epoch": 1594383850.609611,
+            "included_at_iso": "2020-07-10T12:24:10.609611",
+            "last_retested_at_epoch": 1594383850.609611,
+            "last_retested_at_iso": "2020-07-10T12:24:10.609611",
             "status": "INACTIVE"
         },
         "iwebanalyze.com": {
@@ -1274,6 +1288,13 @@
             "last_retested_at_iso": "2020-07-09T20:17:09.738080",
             "status": "INACTIVE"
         },
+        "www.freeanimalporn.xyz": {
+            "included_at_epoch": 1594383992.680314,
+            "included_at_iso": "2020-07-10T12:26:32.680314",
+            "last_retested_at_epoch": 1594383992.680314,
+            "last_retested_at_iso": "2020-07-10T12:26:32.680314",
+            "status": "INACTIVE"
+        },
         "www.freecc.sex-explorer.com": {
             "included_at_epoch": 1594155493.512444,
             "included_at_iso": "2020-07-07T20:58:13.512444",
@@ -1713,6 +1734,13 @@
             "included_at_iso": "2020-07-07T20:58:21.366953",
             "last_retested_at_epoch": 1594325838.912193,
             "last_retested_at_iso": "2020-07-09T20:17:18.912193",
+            "status": "INACTIVE"
+        },
+        "www.poisonangel.citymax.com": {
+            "included_at_epoch": 1594383998.57681,
+            "included_at_iso": "2020-07-10T12:26:38.576810",
+            "last_retested_at_epoch": 1594383998.57681,
+            "last_retested_at_iso": "2020-07-10T12:26:38.576810",
             "status": "INACTIVE"
         },
         "www.porn-service.us": {
@@ -2252,6 +2280,13 @@
             "included_at_iso": "2020-07-07T21:10:42.762135",
             "last_retested_at_epoch": 1594326479.735995,
             "last_retested_at_iso": "2020-07-09T20:27:59.735995",
+            "status": "INACTIVE"
+        },
+        "www.young-whores.net": {
+            "included_at_epoch": 1594384006.356811,
+            "included_at_iso": "2020-07-10T12:26:46.356811",
+            "last_retested_at_epoch": 1594384006.356811,
+            "last_retested_at_iso": "2020-07-10T12:26:46.356811",
             "status": "INACTIVE"
         },
         "x.teenssites.net": {
