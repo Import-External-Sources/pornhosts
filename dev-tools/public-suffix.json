@@ -1150,6 +1150,7 @@
         "jcloud.ik-server.com",
         "jdevcloud.com",
         "jpn.com",
+        "js.wpenginepowered.com",
         "kasserver.com",
         "kozow.com",
         "kr.com",
@@ -1529,7 +1530,9 @@
         "gov.dz",
         "net.dz",
         "org.dz",
-        "pol.dz"
+        "pol.dz",
+        "soc.dz",
+        "tm.dz"
     ],
     "earth": [
         "bzz.dapps.earth",
@@ -1763,7 +1766,8 @@
         "org.gn"
     ],
     "goog": [
-        "cloud.goog"
+        "cloud.goog",
+        "translate.goog"
     ],
     "gp": [
         "app.gp",
@@ -7188,6 +7192,7 @@
     ],
     "sh": [
         "bc.platform.sh",
+        "bip.sh",
         "com.sh",
         "ent.platform.sh",
         "eu.platform.sh",
@@ -8057,6 +8062,7 @@
         "blogsite.xyz",
         "crafting.xyz",
         "fhapp.xyz",
+        "localzone.xyz",
         "telebit.xyz",
         "zapto.xyz"
     ],
