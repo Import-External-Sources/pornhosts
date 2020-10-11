@@ -1,4 +1,4 @@
-pyfunceble-dev
+pyfunceble-dev>=3.3.7
 ultimate-hosts-blacklist-whitelist
-mariadb>=10.4
+mariadb>=10.5
 wheel
