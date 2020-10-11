@@ -1,6 +1,17 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/84b46b76e27740bb9eb3770dc6b004a2)](https://app.codacy.com/gh/Import-External-Sources/pornhosts?utm_source=github.com&utm_medium=referral&utm_content=Import-External-Sources/pornhosts&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.com/spirillen/pornhosts.svg?branch=master)](https://travis-ci.com/spirillen/pornhosts)
 
+# Update 11. October 2020
+You should all be aware of this repository is to become replaced by
+[Porn Records](https://github.com/mypdns/porn-records).
+
+Porn-Records is a mix of the preciously records from this repo and the
+[matrix](https://github.com/mypdns/matrix)
+
+This mean that records will slowly but steady be removed from this repo
+to the new repo. To keep having all our records, please visit the
+[Porn Records](https://github.com/mypdns/porn-records) repo.
+
 ## pornhosts -- a consolidated anti porn hosts file
 
 This is an endeavour to find all porn domains and compile them into a single
