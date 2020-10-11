@@ -1,4 +1,4 @@
-dist: bionic
+dist: focal
 
 language: generic #python
 #python:
@@ -27,7 +27,7 @@ env:
   - PYFUNCEBLE_DB_PORT="${DB_PORT}"
   #- DEBUG_PYFUNCEBLE: true
   #- DEBUG_PYFUNCEBLE_ON_SCREEN: true
-  - PYTHON_VERSION: 3.8.5
+  - PYTHON_VERSION: 3.9.0
   #- secure: s2pGoOKhtxbI0TBrhuM1tGPk6c14GITgBPrL41cn8nRDljYp7H8VDngS8pnXV1A+bLN0Y2rnCJ8yp6MljkclChocvqvS05N+uxT2HfHg142Yvm1xKs+GM2mjuAAZRjNFNM7y2MyM+LMTqF1cN5w2p5sKMpcaS6rYKz8fnKu+e15llMnWKCfKYyJ8DUuvXS5Rsc6ZtesCtN/4ol44hrWIlA9ogeejaj4/foYAmK1YWUg48Wy+5mjso644mBJNdWSNSBMrX/DaLJogFroqrrnYZ++1Rjyn0oq3IuqEU61vZ33bztLr6kMW2kDITSxMLV1VGmZw57FDZyXnCzK2iz1xaQLf6ccHx8rHSxxS7o0GGUCAOw7Ydrdy2x+KmYtr7PRyL2CfjgFZMdN/4MtWuJofXymyMl+aC+7s9diTfpErKDUInI2RbvFzBaHxQl3jS0S4bGQnDFCjsF04ZkBrs6BBDAtWu+vvIREhNAufrmL5nh/NcECbpHy2qXCoauZW1NE9/SuvH0ZSOT1HoQyylYKbjqLHNC4UPedMX14mq5mJPC/XHsJgGqYyiV6X57d88esEpCzey1yV68PwRJtPqDb1XNTiFkaqmpIPhpBzwmeRuuT0wZQWC+87j8c2A/xTPM2ScRhhb8GRXIDR0QpuquVXvfD66GV9Y4uRn5k20S4okEI=
 addons:
   #mariadb: '10.5'
