@@ -8,7 +8,7 @@ You should all be aware of this repository is to become replaced by
 Porn-Records is a mix of the previously records from Porn-hosts repo and the
 [matrix](https://github.com/mypdns/matrix)
 
-This mean that records will slowly but steady be removed into this repo
+This mean that records will slowly but steady be removed from this repo
 as the new repo. To keep having all our records, please visit the
 [Porn Records](https://github.com/mypdns/porn-records) repo.
 
