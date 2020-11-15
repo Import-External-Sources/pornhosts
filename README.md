@@ -5,11 +5,11 @@
 You should all be aware of this repository is to become replaced by
 [Porn Records](https://github.com/mypdns/porn-records).
 
-Porn-Records is a mix of the preciously records from this repo and the
+Porn-Records is a mix of the previously records from Porn-hosts repo and the
 [matrix](https://github.com/mypdns/matrix)
 
-This mean that records will slowly but steady be removed from this repo
-to the new repo. To keep having all our records, please visit the
+This mean that records will slowly but steady be removed into this repo
+as the new repo. To keep having all our records, please visit the
 [Porn Records](https://github.com/mypdns/porn-records) repo.
 
 ## pornhosts -- a consolidated anti porn hosts file
